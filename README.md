@@ -22,6 +22,7 @@
 * 熟练使用remine、tower、禅道、等项目管理工具。
 * 善于GTD、番茄工作法、Processon等以及工具插件提高效率。
 * 会使用Object-C、Python、Grovvy
+* 了解XSS、CSRF、SQL注入等攻击方式
  
 ##自我评价
 * 热爱开源，喜欢尝试各种不同的库。
