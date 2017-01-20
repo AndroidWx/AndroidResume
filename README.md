@@ -21,6 +21,7 @@
 * 对HTML、CSS、JavaScript、ES6、ReactNative等技术有一定的了解。
 * 熟练使用remine、tower、禅道、等项目管理工具。
 * 善于GTD、番茄工作法、Processon等以及工具插件提高效率。
+* 会使用Object-C、Python、Grovvy
  
 ##自我评价
 * 热爱开源，喜欢尝试各种不同的库。
@@ -30,13 +31,13 @@
 
 ##工作经历
 - ####[广州学邦信息技术有限公司(2015年4月－至今)](http://baike.baidu.com/link?url=GyVgMQ4hgiDhzjPP_o3WZYrjcLjCQePztpPPwbvC7dfP0NcksMsEfLlfd7dYxOX3--VNjzImRUj25p-5EIkOaT4tNQoPRoc-g9VsBOISZ3W0abptrZKC1b8o1QzHyVjhJNgLIVVjVviAieORnHZ2GCJnaF-nSoNBHdF4FzL0PaRuvQv7_5SUxRKK9pxbIoyKfvLKHcW_pFuycGSMUf3OPDfCr7-MnZWe4y975oNTg9_)
- > 创业公司成立不久,负责各客户Boss系统Android端技术负责人，主导App开发以及协作团队组建工作,经历了13人到100+人的团队变化.
+ > 创业[公司](http://www.xuebangsoft.com)成立不久,负责各客户Boss系统Android端技术负责人，主导App开发以及协作团队组建工作,经历了13人到100+人的团队变化.
 
 - ####[广州幸福网络技术有限公司(2014年2月－2015年4月)](http://www.xingfu360.com/)
-> 担任Android主程，负责积福禄1.0和幸福相馆2.2.0（邮政快照1.0）以及幸福相馆微信服务号的开发工作。
+> 担任[公司](http://xingfu360.com)Android主程，负责积福禄1.0和幸福相馆2.2.0（邮政快照1.0）以及幸福相馆微信服务号的开发工作。
 
 - ####[晨星软件研发(深圳)有限公司2012年3月－2014年1月](http://baike.baidu.com/link?url=SIy2url-IL8DG53lXi8xrl4lXSNIKBspFdpXvMCdtAoPo0rGmh6Kry5e1z7FlOfwbxS5MclMjvU7qKfh-G9h0_)
-> 担任车机项目Android应用软件工程师，配合客户完成mstar786解决方案车联网项目系统级别应用代码编写
+> 担任[公司](http://www.mstarsemi.com)车机项目Android应用软件工程师，配合客户完成mstar786解决方案车联网项目系统级别应用代码编写
 
 
 ***
@@ -57,7 +58,7 @@
 －jenkins自动化部署<br>
 
 * ####5.备注
->掌上星火是个集成了不少模块，以及“多账号”系统登录的一个App，该App的开发的难度唯独就是面对需求在摸索整合改变的情况下，对代码的设计；前几个月快速完成的app不及掌上星火。[生产](https://www.pgyer.com/eARf) ` {"account": "cxl","pwd": "Cxl2014","remark":"该用户role看不到很多东西"}`[测试环境下载](www.pgyer.com/SfXq)自带账号
+>掌上星火是个集成了不少模块，以及“多账号”系统登录的一个App，该App的开发的难度唯独就是面对需求在摸索整合改变的情况下，对代码的设计；前几个月快速完成的app不及掌上星火。[生产](https://www.pgyer.com/mLuL) ` {"account": "cxl","pwd": "Cxl2014","remark":"该用户role看不到很多东西"}`[测试环境下载](www.pgyer.com/SfXq)自带账号
 
  
 
