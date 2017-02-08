@@ -30,6 +30,11 @@
 * 探索不同的未知领域，保持生活激情。
 * 各个年龄层次的人群都可适应。
 
+##想说的话
+* 跟伟大的人在一起，才能做伟大的事
+* 一个新工具的出生，总解决了相应的问题，工具的使用其实在研究根源问题
+
+
 ##工作经历
 - ####[广州学邦信息技术有限公司(2015年4月－至今)](http://baike.baidu.com/link?url=GyVgMQ4hgiDhzjPP_o3WZYrjcLjCQePztpPPwbvC7dfP0NcksMsEfLlfd7dYxOX3--VNjzImRUj25p-5EIkOaT4tNQoPRoc-g9VsBOISZ3W0abptrZKC1b8o1QzHyVjhJNgLIVVjVviAieORnHZ2GCJnaF-nSoNBHdF4FzL0PaRuvQv7_5SUxRKK9pxbIoyKfvLKHcW_pFuycGSMUf3OPDfCr7-MnZWe4y975oNTg9_)
  > 创业[公司](http://www.xuebangsoft.com)成立不久,负责各客户Boss系统Android端技术负责人，主导App开发以及协作团队组建工作,经历了13人到100+人的团队变化.
