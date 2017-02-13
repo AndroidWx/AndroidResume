@@ -1,6 +1,5 @@
 #王翔(Joye)
 
-
 - 职位：Android 工程师
 
 - 1990年／5年工作经验
@@ -135,7 +134,8 @@
 
 ***
 ###开源项目
->[Joye的代号6](https://github.com/AndroidWx/ClearCodeForAndroid/blob/master/README.md)
+>六合彩 [Joye的代号6](https://github.com/AndroidWx/ClearCodeForAndroid/blob/master/README.md)
+>
   
  
 
